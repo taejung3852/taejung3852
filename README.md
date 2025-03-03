@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=👋%20안녕하세요!%20박태정입니다!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=👋%20안녕하세요!%20박태정입니다&fontSize=60)
 
 <h2 align="center">🙌  Contact  🙌</h2>
 <div align="center">
