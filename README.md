@@ -36,11 +36,11 @@
 
 </div>
 
-<br><br><br>
+<!-- <br><br><br>
 <h3 align="center">🎖  My Ranking  🎖</h3>
 <div align="center">
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taejung3852)](https://solved.ac/taejung3852)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taejung3852)](https://solved.ac/taejung3852) -->
   
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
