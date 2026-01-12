@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=👋%20안녕하세요!%20박태정입니다&fontSize=60)
+<!--![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=👋%20안녕하세요!%20박태정입니다&fontSize=60)
 
 <h2 align="center">🙌  Contact  🙌</h2>
 <div align="center">
@@ -43,4 +43,4 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taejung3852)](https://solved.ac/taejung3852) -->
   
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
