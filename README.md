@@ -51,7 +51,7 @@ KT AIVLE School 수료 과정 · AI 개발자 준비생.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake-dark.svg?sanitize=true)
 
 </div>
 
