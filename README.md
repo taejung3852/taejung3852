@@ -15,11 +15,11 @@ KT AIVLE School 수료 과정 · AI 개발자 준비생.
 
 ## 🔭 Projects
 
-| 프로젝트 | 유형 | 한 줄 설명 | 스택 |
-|---|---|---|---|
-| **[ASTER](https://github.com/taejung3852/ASTER)** | 개인 | 고객 리뷰 → ASTE 삼중 추출 → 운영 인사이트. 5-에이전트 MAS | LangGraph · GraphRAG · Qdrant |
-| **[AutoDoc-MAS](https://github.com/taejung3852/AutoDoc-MAS)** | 개인 | 코드·문서 배치 자동 문서화. Planner-Executor-Critic + Reflection 루프 | LangGraph · RAG · LangSmith |
-| **[LLM Gateway Service](https://github.com/taejung3852/LLM-Gateway-Service)** | 팀 | 40+ LLM 자동 라우팅. Min-Max 정규화 가중합으로 최적 모델 선택 | Spring Boot · LangChain4j · Ollama |
+| 프로젝트 | 한 줄 설명 | 스택 |
+|---|---|---|
+| **[ASTER](https://github.com/taejung3852/ASTER)** `개인` | 고객 리뷰 → ASTE 삼중 추출 → 운영 인사이트. 5-에이전트 MAS | LangGraph · GraphRAG · Qdrant |
+| **[AutoDoc-MAS](https://github.com/taejung3852/AutoDoc-MAS)** `개인` | 코드·문서 배치 자동 문서화. Planner-Executor-Critic + Reflection 루프 | LangGraph · RAG · LangSmith |
+| **[LLM Gateway Service](https://github.com/taejung3852/LLM-Gateway-Service)** `팀` | 40+ LLM 자동 라우팅. Min-Max 정규화 가중합으로 최적 모델 선택 | Spring Boot · LangChain4j · Ollama |
 
 ---
 
