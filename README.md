@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=MAS+%26+RAG+Engineer+in+the+Making;BERT+%ED%91%9C%EC%A4%80%EC%9D%B4%EB%98%98+ABSA%EC%97%90+MAS+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC+%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94+%EC%A4%91;LangGraph+%C2%B7+GraphRAG+%C2%B7+Multi-Agent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=MAS+%26+RAG+Engineer+in+the+Making;BERT+%ED%91%9C%EC%A4%80%EC%9D%B4%EB%8D%98+ABSA%EC%97%90+MAS+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC+%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94+%EC%A4%91;LangGraph+%C2%B7+GraphRAG+%C2%B7+Multi-Agent)](https://git.io/typing-svg)
 
 </div>
 
