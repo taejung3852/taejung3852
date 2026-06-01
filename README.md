@@ -6,20 +6,20 @@
 
 ---
 
-## 박태정 (Taejung Park)
+## 박태정
 
 LangGraph 기반 **Multi-Agent System**을 설계하고 구현합니다.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 교육 & 자격증
 
 **KT AIVLE School** 9기 AI 개발자 트랙 (2026.03 ~ 2026.09)  
 AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
 ---
 
-## 🔭 Projects
+## 🔭 프로젝트
 
 | 프로젝트 | 유형 | 한 줄 설명 | 스택 |
 |---|---|---|---|
@@ -29,7 +29,7 @@ AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -38,7 +38,7 @@ AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
 ---
 
-## 💬 Now
+## 💬 지금은
 
 ```text
 🔭 Building     ASTER — BERT 표준이던 ABSA에 5-에이전트 MAS 적용 중
