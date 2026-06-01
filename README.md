@@ -38,7 +38,7 @@ AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
 ---
 
-## 💬 지금은
+## 💬 Now
 
 ```text
 🔭 Building     ASTER — BERT 표준이던 ABSA에 5-에이전트 MAS 적용 중
