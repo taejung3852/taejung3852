@@ -8,8 +8,14 @@
 
 ## 박태정 (Taejung Park)
 
-LangGraph 기반 **Multi-Agent System**을 설계하고 구현합니다.  
-KT AIVLE School 수료 과정 · AI 개발자 준비생.
+LangGraph 기반 **Multi-Agent System**을 설계하고 구현합니다.
+
+---
+
+## 🎓 Education & Certifications
+
+**KT AIVLE School** 9기 AI 개발자 트랙 (2026.03 ~ 2026.09)  
+AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
 ---
 
@@ -29,7 +35,6 @@ KT AIVLE School 수료 과정 · AI 개발자 준비생.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square&logo=qdrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
