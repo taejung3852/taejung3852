@@ -1,132 +1,66 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
-  <img alt="박태정 — AI 에이전트 · LLM 애플리케이션 개발자" src="./assets/profile-header-light.svg" width="100%" />
-</picture>
-
 <div align="center">
-  <a href="#프로젝트">프로젝트</a> ·
-  <a href="#개발-원칙">개발 원칙</a> ·
-  <a href="#기술과-도구">기술과 도구</a> ·
-  <a href="mailto:taejung3852@gmail.com">이메일</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=MAS+%26+RAG+Engineer+in+the+Making;LangGraph+%C2%B7+GraphRAG+%C2%B7+Multi-Agent)](https://git.io/typing-svg)
+
 </div>
-
-<br />
-
-AI의 작업 범위를 정하고 결과를 검증해, 사람이 **이해하고 설명하며 책임질 수 있는 시스템**을 만듭니다.
 
 ---
 
-## 프로젝트
+## 박태정
 
-AI 서비스, 에이전트가 사용하는 도구, AI 개발 작업을 검토하는 도구를 만듭니다. 네 프로젝트의 위치를 먼저 보고, 아래에서 역할과 기술을 확인할 수 있습니다.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-map-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-map-light.svg" />
-  <img alt="프로젝트 인덱스: FOWOCO, LLM Gateway, HWPX Document Plugin, OwnHands" src="./assets/profile-map-light.svg" width="100%" />
-</picture>
-
-<div align="center">
-  <a href="#fowoco">FOWOCO</a> ·
-  <a href="#llm-gateway">LLM Gateway</a> ·
-  <a href="#hwpx-document-plugin">HWPX Plugin</a> ·
-  <a href="#ownhands">OwnHands</a>
-</div>
-
-### AI 서비스 — 모델과 업무를 연결합니다
-
-#### FOWOCO
-
-**팀 프로젝트** · [저장소 열기 ↗](https://github.com/fowoco/ai)
-
-검색과 AI 작업 흐름을 실제 업무에 연결하는 서비스입니다. 생성된 번역·안내문을 검증하고, 사람의 검토가 필요한 결과를 구분하는 흐름을 다룹니다.
-
-- **참여 영역:** Language·Document/HWPX 및 Language runtime 연동
-- **관련 기술:** Hybrid Retrieval · Reranking · FastAPI
-
-#### LLM Gateway
-
-**팀 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/llm-gateway)
-
-여러 AI 모델을 하나의 서비스에서 사용할 수 있도록 연결하는 백엔드입니다. 모델 선택과 응답을 조금씩 전달하는 스트리밍 구조를 다룹니다.
-
-- **담당 영역:** 백엔드·AI 아키텍처, 모델 제공자 통합과 부분 응답 전달
-- **역할 구분:** 프론트엔드는 팀원이 담당
-- **관련 기술:** Spring Boot · LangChain4j · Ollama
-
-### 에이전트 도구 — 문서를 안전하게 다룹니다
-
-#### HWPX Document Plugin
-
-**팀 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/hwpx-document-plugin)
-
-AI가 HWPX 문서를 다룰 때 **분석 → 변경 계획 → 사람의 승인 → 수정 → 검증**을 거치도록 돕는 도구입니다.
-
-- **참여 영역:** 외부 rhwp 엔진과 Python을 연결하는 인프로세스 브리지 및 렌더링 연동
-- **역할 구분:** 원천 렌더링 엔진 자체를 개발한 것은 아님
-- **관련 기술:** MCP · Python · Rust / PyO3
-
-### AI 개발 도구 — 개발 과정 자체를 검토합니다
-
-#### OwnHands
-
-**개인 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/OwnHands)
-
-AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했는지 보여주는 **근거와 검증을 사람의 판단에 연결**합니다.
-
-- **개발 방향:** 작업 범위, 수행 근거, 검증 결과를 함께 확인할 수 있는 구조
-- **목표:** AI가 만든 변경을 사람이 다시 읽고 이해하는 부담을 줄이는 것
+LangGraph 기반 **Multi-Agent System**을 설계하고 구현합니다.
 
 ---
 
-## 개발 원칙
-
-1. **범위를 정합니다.** AI에게 맡길 일과 사람이 결정할 일을 구분합니다.
-2. **근거를 확인합니다.** 생성된 결과를 그대로 믿지 않고 검증합니다.
-3. **이해하고 수정합니다.** 필요한 부분을 직접 고쳐 내 것으로 만듭니다.
-4. **판단할 수 있게 설명합니다.** 다른 사람이 맥락과 근거를 따라갈 수 있게 합니다.
-5. **최종 결정은 사람이 합니다.** 판단과 책임을 도구에 넘기지 않습니다.
-
-## 기술과 도구
-
-### 개발 기술
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&amp;logo=python&amp;logoColor=4B8BBE" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&amp;logo=github&amp;logoColor=F5F5F5" alt="GitHub" />
-</div>
-
-### 코딩 에이전트
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logoColor=white" alt="Claude Code" />
-</div>
-
-### 에이전트 확장
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Plugin-475569?style=for-the-badge" alt="Plugin" />
-</div>
-
-## GitHub 활동
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake-light.svg" />
-  <img alt="GitHub 기여 잔디 뱀 애니메이션" src="./assets/contribution-snake-light.svg" width="100%" />
-</picture>
-
-## 교육과 자격
+## 🎓 교육 & 자격증
 
 **KT AIVLE School** 9기 AI 개발자 트랙 (2026.03 ~ 2026.09)  
 AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
-## 연락
+---
 
-**[taejung3852@gmail.com ↗](mailto:taejung3852@gmail.com)**
+## 🔭 프로젝트
+
+| 프로젝트 | 유형 | 한 줄 설명 | 스택 |
+|---|---|---|---|
+| **[SpecFlow](https://github.com/taejung3852/SpecFlow)** | 개인 | 코드·문서 배치 자동 문서화. Planner-Executor-Critic + Reflection 루프 | LangGraph · RAG · LangSmith |
+| **[LLM Gateway Service](https://github.com/taejung3852/LLM-Gateway-Service)** | 팀&nbsp;&nbsp;&nbsp;&nbsp; | 40+ LLM 자동 라우팅. Min-Max 정규화 가중합으로 최적 모델 선택 | Spring Boot · LangChain4j · Ollama |
+
+---
+
+## 🛠 기술 스택
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 💬 Now
+
+```text
+🔭 Building     AutoDoc-MAS v2 — 코드·문서를 "LLM Wiki"로 누적하는 복리형 문서화 (Phase 1: wiki-core)
+📚 Studying     카파시 LLM Wiki 메커니즘 · LangGraph HITL/Reflection · KT AIVLE 빅프로젝트 준비
+💬 Ask me about LangGraph StateGraph · MAS Reflection 루프 · HITL 설계 · /lint 문서-코드 일관성 검증
+```
+
+---
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taejung3852&theme=github-compact&hide_border=true&area=true)](https://github.com/taejung3852)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake-dark.svg?sanitize=true)
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-taejung3852%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taejung3852@gmail.com)
+
+
+</div>
