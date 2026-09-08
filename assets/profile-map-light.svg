@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">박태정의 프로젝트 지도</title>
+  <desc id="desc">AI Services, Agent Tooling, AI Development Tools 세 영역과 FOWOCO, LLM Gateway, HWPX Document Plugin, OwnHands 프로젝트의 관계</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset=".52" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#64748b" flood-opacity=".14"/>
+    </filter>
+  </defs>
+  <rect width="960" height="420" rx="30" fill="#f8fafc"/>
+  <circle cx="70" cy="36" r="110" fill="#60a5fa" opacity=".12"/>
+  <circle cx="900" cy="390" r="150" fill="#f59e0b" opacity=".10"/>
+  <text x="48" y="52" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">PROJECT SYSTEM</text>
+  <text x="48" y="84" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="25" font-weight="750">문제의 위치부터 보여주는 프로젝트 지도</text>
+  <rect x="342" y="112" width="276" height="62" rx="31" fill="#f1f5f9" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="378" cy="143" r="13" fill="url(#accent)"/>
+  <text x="401" y="139" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="16" font-weight="750">박태정</text>
+  <text x="401" y="158" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12.5">AI-native Developer</text>
+  <path d="M480 174 V194 M480 194 H175 V214 M480 194 V214 M480 194 H785 V214" fill="none" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="175" cy="214" r="4" fill="#60a5fa"/>
+  <circle cx="480" cy="214" r="4" fill="#a78bfa"/>
+  <circle cx="785" cy="214" r="4" fill="#f59e0b"/>
+
+  <g filter="url(#shadow)">
+    <rect x="38" y="218" width="274" height="158" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <rect x="38" y="218" width="274" height="5" rx="2.5" fill="#60a5fa"/>
+    <text x="62" y="258" fill="#60a5fa" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.6">AI SERVICES</text>
+    <text x="62" y="292" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">FOWOCO</text>
+    <text x="62" y="315" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">검색과 AI 작업 흐름</text>
+    <line x1="62" y1="333" x2="288" y2="333" stroke="#cbd5e1"/>
+    <text x="62" y="359" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="16" font-weight="700">LLM Gateway</text>
+
+    <rect x="343" y="218" width="274" height="158" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <rect x="343" y="218" width="274" height="5" rx="2.5" fill="#a78bfa"/>
+    <text x="367" y="258" fill="#a78bfa" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.6">AGENT TOOLING</text>
+    <text x="367" y="294" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">HWPX Document</text>
+    <text x="367" y="318" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">Plugin</text>
+    <text x="367" y="350" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">계획 · 승인 · 수정 · 검증</text>
+
+    <rect x="648" y="218" width="274" height="158" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <rect x="648" y="218" width="274" height="5" rx="2.5" fill="#f59e0b"/>
+    <text x="672" y="258" fill="#f59e0b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.35">AI DEVELOPMENT TOOLS</text>
+    <text x="672" y="298" fill="#111827" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="22" font-weight="800">OwnHands</text>
+    <text x="672" y="327" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">근거와 검증을</text>
+    <text x="672" y="348" fill="#64748b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">사람의 판단에 연결</text>
+  </g>
+  <rect x="38" y="398" width="884" height="2" rx="1" fill="url(#accent)" opacity=".75"/>
+</svg>
