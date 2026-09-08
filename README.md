@@ -90,20 +90,28 @@ AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했�
 
 ## 기술과 도구
 
-아이콘만 보고 추측하지 않도록 실제 이름을 표시했습니다.
+### 개발 기술
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&amp;logo=python&amp;logoColor=4B8BBE" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Rust-20232A?style=flat-square&amp;logo=rust&amp;logoColor=F5F5F5" alt="Rust" />
-  <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&amp;logo=github&amp;logoColor=F5F5F5" alt="GitHub" />
-  <br />
-  <img src="https://img.shields.io/badge/Codex-1D4ED8?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude_Code-1D4ED8?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-1D4ED8?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Plugin-1D4ED8?style=flat-square" alt="Plugin" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&amp;logo=python&amp;logoColor=4B8BBE" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&amp;logo=github&amp;logoColor=F5F5F5" alt="GitHub" />
+</div>
+
+### 코딩 에이전트
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logoColor=white" alt="Claude Code" />
+</div>
+
+### 에이전트 확장
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Plugin-475569?style=for-the-badge" alt="Plugin" />
 </div>
 
 ## GitHub 활동
