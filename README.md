@@ -1,102 +1,109 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a%2C50:172033%2C100:05070a&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=f8fafc&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=cbd5e1&amp;descAlignY=61" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" />
-    <img alt="Taejung Park — AI Agent · LLM Application Developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" width="100%" />
-  </picture>
-
-  <a href="#만든-것">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=900&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=AI-native+Developer;Control+%C2%B7+Verify+%C2%B7+Understand;Explain+%C2%B7+Accountability" alt="AI-native Developer — Control, Verify, Understand, Explain, Accountability" />
-  </a>
-</div>
-
-# 박태정
-
-**AI Agent / LLM Application Developer**
-
-AI의 작업을 통제하고 검증해, 생성물을 **이해하고 설명하며 책임질 수 있는 결과**로 만드는 AI-native 개발자.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+  <img alt="박태정 — AI 에이전트 · LLM 애플리케이션 개발자" src="./assets/profile-header-light.svg" width="100%" />
+</picture>
 
 <div align="center">
-  <a href="#만든-것"><img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="프로젝트 보기" /></a>
-  <a href="#일하는-기준"><img src="https://img.shields.io/badge/HOW_I_WORK-F59E0B?style=for-the-badge&amp;logoColor=111827" alt="일하는 기준 보기" /></a>
-  <a href="mailto:taejung3852@gmail.com"><img src="https://img.shields.io/badge/CONTACT-E5E7EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="이메일 보내기" /></a>
+  <a href="#프로젝트">프로젝트</a> ·
+  <a href="#개발-원칙">개발 원칙</a> ·
+  <a href="#기술과-도구">기술과 도구</a> ·
+  <a href="mailto:taejung3852@gmail.com">이메일</a>
 </div>
+
+<br />
+
+AI의 작업 범위를 정하고 결과를 검증해, 사람이 **이해하고 설명하며 책임질 수 있는 시스템**을 만듭니다.
 
 ---
 
-## 만든 것
+## 프로젝트
 
-AI 서비스, Agent가 사용하는 도구, AI 개발 작업을 검토하는 도구를 만듭니다. 먼저 지도로 전체 구조를 보고, 아래에서 각 프로젝트를 읽을 수 있습니다.
+AI 서비스, 에이전트가 사용하는 도구, AI 개발 작업을 검토하는 도구를 만듭니다. 네 프로젝트의 위치를 먼저 보고, 아래에서 역할과 기술을 확인할 수 있습니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-map-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-map-light.svg" />
-  <img alt="박태정의 프로젝트 지도: AI Services, Agent Tooling, AI Development Tools" src="./assets/profile-map-light.svg" width="100%" />
+  <img alt="프로젝트 인덱스: FOWOCO, LLM Gateway, HWPX Document Plugin, OwnHands" src="./assets/profile-map-light.svg" width="100%" />
 </picture>
 
 <div align="center">
-  <a href="#fowoco--팀-프로젝트">FOWOCO</a> ·
-  <a href="#llm-gateway--팀-프로젝트">LLM Gateway</a> ·
-  <a href="#hwpx-document-plugin--팀-프로젝트">HWPX Plugin</a> ·
-  <a href="#ownhands--개인-프로젝트">OwnHands</a>
+  <a href="#fowoco">FOWOCO</a> ·
+  <a href="#llm-gateway">LLM Gateway</a> ·
+  <a href="#hwpx-document-plugin">HWPX Plugin</a> ·
+  <a href="#ownhands">OwnHands</a>
 </div>
 
-### AI Services
+### AI 서비스 — 모델과 업무를 연결합니다
 
-#### FOWOCO · 팀 프로젝트
+#### FOWOCO
+
+**팀 프로젝트** · [저장소 열기 ↗](https://github.com/fowoco/ai)
+
 검색과 AI 작업 흐름을 실제 업무에 연결하는 서비스입니다. 생성된 번역·안내문을 검증하고, 사람의 검토가 필요한 결과를 구분하는 흐름을 다룹니다.
 
 - **참여 영역:** Language·Document/HWPX 및 Language runtime 연동
 - **관련 기술:** Hybrid Retrieval · Reranking · FastAPI
-- [프로젝트 저장소](https://github.com/fowoco/ai)
 
-#### LLM Gateway · 팀 프로젝트
+#### LLM Gateway
+
+**팀 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/llm-gateway)
+
 여러 AI 모델을 하나의 서비스에서 사용할 수 있도록 연결하는 백엔드입니다. 모델 선택과 응답을 조금씩 전달하는 스트리밍 구조를 다룹니다.
 
-- **담당 영역:** 백엔드·AI 아키텍처, 모델 제공자 통합과 부분 응답 전달. 프론트엔드는 팀원이 담당했습니다.
+- **담당 영역:** 백엔드·AI 아키텍처, 모델 제공자 통합과 부분 응답 전달
+- **역할 구분:** 프론트엔드는 팀원이 담당
 - **관련 기술:** Spring Boot · LangChain4j · Ollama
-- 저장소는 현재 비공개입니다.
 
-### Agent Tooling
+### 에이전트 도구 — 문서를 안전하게 다룹니다
 
-#### HWPX Document Plugin · 팀 프로젝트
+#### HWPX Document Plugin
+
+**팀 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/hwpx-document-plugin)
+
 AI가 HWPX 문서를 다룰 때 **분석 → 변경 계획 → 사람의 승인 → 수정 → 검증**을 거치도록 돕는 도구입니다.
 
-- **참여 영역:** 외부 rhwp 엔진과 Python을 연결하는 인프로세스 브리지 및 렌더링 연동. 원천 렌더링 엔진 자체를 개발한 것은 아닙니다.
+- **참여 영역:** 외부 rhwp 엔진과 Python을 연결하는 인프로세스 브리지 및 렌더링 연동
+- **역할 구분:** 원천 렌더링 엔진 자체를 개발한 것은 아님
 - **관련 기술:** MCP · Python · Rust / PyO3
-- 저장소는 현재 비공개입니다.
 
-### AI Development Tools
+### AI 개발 도구 — 개발 과정 자체를 검토합니다
 
-#### OwnHands · 개인 프로젝트
+#### OwnHands
+
+**개인 프로젝트** · [비공개 저장소 열기 ↗](https://github.com/taejung3852/OwnHands)
+
 AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했는지 보여주는 **근거와 검증을 사람의 판단에 연결**합니다.
 
 - **개발 방향:** 작업 범위, 수행 근거, 검증 결과를 함께 확인할 수 있는 구조
 - **목표:** AI가 만든 변경을 사람이 다시 읽고 이해하는 부담을 줄이는 것
-- 저장소는 현재 비공개입니다.
 
 ---
 
-## 일하는 기준
+## 개발 원칙
 
-| 기준 | 실제로 하는 일 |
-|---|---|
-| **Control · 통제** | AI에게 맡길 범위와 사람이 결정할 일을 구분합니다. |
-| **Verify · 검증** | 생성 결과를 근거로 확인합니다. |
-| **Understand · 이해** | 생성물과 기술을 이해하고, 필요한 부분을 수정해 내 것으로 만듭니다. |
-| **Explain · 설명** | 다른 사람이 판단할 수 있도록 맥락과 근거를 전달합니다. |
-| **Accountability · 책임** | 최종 판단과 책임은 사람이 가집니다. |
+1. **범위를 정합니다.** AI에게 맡길 일과 사람이 결정할 일을 구분합니다.
+2. **근거를 확인합니다.** 생성된 결과를 그대로 믿지 않고 검증합니다.
+3. **이해하고 수정합니다.** 필요한 부분을 직접 고쳐 내 것으로 만듭니다.
+4. **판단할 수 있게 설명합니다.** 다른 사람이 맥락과 근거를 따라갈 수 있게 합니다.
+5. **최종 결정은 사람이 합니다.** 판단과 책임을 도구에 넘기지 않습니다.
 
-## 기술 환경
+## 기술과 도구
 
-프로젝트에서 사용한 기술을 중심으로 표시했습니다.
+아이콘만 보고 추측하지 않도록 실제 이름을 표시했습니다.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=dark&amp;perline=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=light&amp;perline=8" />
-    <img alt="Python, FastAPI, Java, Spring, Rust, Docker, Git, GitHub" src="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=light&amp;perline=8" />
-  </picture>
+  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&amp;logo=python&amp;logoColor=4B8BBE" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Rust-20232A?style=flat-square&amp;logo=rust&amp;logoColor=F5F5F5" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&amp;logo=github&amp;logoColor=F5F5F5" alt="GitHub" />
+  <br />
+  <img src="https://img.shields.io/badge/Codex-1D4ED8?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-1D4ED8?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-1D4ED8?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Plugin-1D4ED8?style=flat-square" alt="Plugin" />
 </div>
 
 ## GitHub 활동
@@ -107,30 +114,11 @@ AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했�
   <img alt="GitHub 기여 잔디 뱀 애니메이션" src="./assets/contribution-snake-light.svg" width="100%" />
 </picture>
 
-## 교육 & 자격증
+## 교육과 자격
 
 **KT AIVLE School** 9기 AI 개발자 트랙 (2026.03 ~ 2026.09)  
 AICE Associate · ISTQB CTFL · 정보처리기사 · SQLD · ADsP
 
-<details>
-<summary><strong>이전 프로젝트 · SpecFlow</strong></summary>
-
-**[SpecFlow](https://github.com/taejung3852/SpecFlow)** · 개인 프로젝트  
-코드·문서 배치 자동 문서화. Planner-Executor-Critic와 Reflection 루프를 다룹니다.  
-LangGraph · RAG · LangSmith
-
-</details>
-
 ## 연락
 
-<div align="center">
-  <a href="mailto:taejung3852@gmail.com">
-    <img src="https://img.shields.io/badge/taejung3852%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="taejung3852@gmail.com" />
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a%2C50:172033%2C100:05070a&amp;height=110&amp;section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=110&amp;section=footer" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=110&amp;section=footer" width="100%" />
-</picture>
+**[taejung3852@gmail.com ↗](mailto:taejung3852@gmail.com)**
