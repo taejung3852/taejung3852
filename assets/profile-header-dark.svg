@@ -1,0 +1,35 @@
+<!-- Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V4 -->
+<!-- Hallmark · genre: modern-minimal · macrostructure: Index-First · theme: Cobalt · enrichment: Tier-B SVG · nav: N9 · footer: Ft2 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
+  <title id="title">박태정</title>
+  <desc id="desc">AI 에이전트와 LLM 애플리케이션을 개발하는 박태정의 GitHub 프로필</desc>
+  <style>
+    :root {
+      --color-paper: oklch(16% 0.012 260);
+      --color-paper-2: oklch(20% 0.016 260);
+      --color-ink: oklch(95% 0.007 260);
+      --color-muted: oklch(72% 0.018 260);
+      --color-rule: oklch(32% 0.025 260);
+      --color-accent: oklch(70% 0.17 255);
+      --font-display: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif;
+      --font-body: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif;
+    }
+    .display { font-family: var(--font-display); font-size: 68px; font-weight: 800; letter-spacing: -2.8px; fill: var(--color-ink); }
+    .role { font-family: var(--font-body); font-size: 28px; font-weight: 600; letter-spacing: -0.4px; fill: var(--color-muted); }
+    .signal { fill: var(--color-accent); }
+    .wire { fill: none; stroke: var(--color-rule); stroke-width: 2; }
+  </style>
+  <rect width="900" height="270" rx="24" fill="var(--color-paper)"/>
+  <rect x="0" y="0" width="9" height="270" rx="4.5" fill="var(--color-accent)"/>
+  <path class="wire" d="M650 59 H770 V104 H842 M684 135 H802 V190 H856"/>
+  <circle class="signal" cx="650" cy="59" r="8"/>
+  <circle class="signal" cx="842" cy="104" r="8"/>
+  <circle class="signal" cx="684" cy="135" r="8"/>
+  <circle class="signal" cx="856" cy="190" r="8"/>
+  <rect x="768" y="41" width="52" height="36" rx="18" fill="var(--color-paper-2)" stroke="var(--color-rule)"/>
+  <rect x="630" y="117" width="76" height="36" rx="18" fill="var(--color-paper-2)" stroke="var(--color-rule)"/>
+  <rect x="782" y="172" width="52" height="36" rx="18" fill="var(--color-paper-2)" stroke="var(--color-rule)"/>
+  <text class="display" x="58" y="126">박태정</text>
+  <text class="role" x="61" y="178">AI 에이전트 · LLM 애플리케이션 개발자</text>
+  <rect x="60" y="216" width="360" height="3" rx="1.5" fill="var(--color-accent)"/>
+</svg>
