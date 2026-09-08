@@ -1,52 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
-  <title id="title">박태정의 프로젝트 지도</title>
-  <desc id="desc">AI Services, Agent Tooling, AI Development Tools 세 영역과 FOWOCO, LLM Gateway, HWPX Document Plugin, OwnHands 프로젝트의 관계</desc>
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa"/>
-      <stop offset=".52" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#f59e0b"/>
-    </linearGradient>
-    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity=".28"/>
-    </filter>
-  </defs>
-  <rect width="960" height="420" rx="30" fill="#0b0d12"/>
-  <circle cx="70" cy="36" r="110" fill="#60a5fa" opacity=".08"/>
-  <circle cx="900" cy="390" r="150" fill="#f59e0b" opacity=".07"/>
-  <text x="48" y="52" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">PROJECT SYSTEM</text>
-  <text x="48" y="84" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="25" font-weight="750">문제의 위치부터 보여주는 프로젝트 지도</text>
-  <rect x="342" y="112" width="276" height="62" rx="31" fill="#1c2230" stroke="url(#accent)" stroke-width="2"/>
-  <circle cx="378" cy="143" r="13" fill="url(#accent)"/>
-  <text x="401" y="139" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="16" font-weight="750">박태정</text>
-  <text x="401" y="158" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12.5">AI-native Developer</text>
-  <path d="M480 174 V194 M480 194 H175 V214 M480 194 V214 M480 194 H785 V214" fill="none" stroke="#354052" stroke-width="2"/>
-  <circle cx="175" cy="214" r="4" fill="#60a5fa"/>
-  <circle cx="480" cy="214" r="4" fill="#a78bfa"/>
-  <circle cx="785" cy="214" r="4" fill="#f59e0b"/>
-
-  <g filter="url(#shadow)">
-    <rect x="38" y="218" width="274" height="158" rx="22" fill="#151922" stroke="#354052"/>
-    <rect x="38" y="218" width="274" height="5" rx="2.5" fill="#60a5fa"/>
-    <text x="62" y="258" fill="#60a5fa" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.6">AI SERVICES</text>
-    <text x="62" y="292" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">FOWOCO</text>
-    <text x="62" y="315" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">검색과 AI 작업 흐름</text>
-    <line x1="62" y1="333" x2="288" y2="333" stroke="#354052"/>
-    <text x="62" y="359" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="16" font-weight="700">LLM Gateway</text>
-
-    <rect x="343" y="218" width="274" height="158" rx="22" fill="#151922" stroke="#354052"/>
-    <rect x="343" y="218" width="274" height="5" rx="2.5" fill="#a78bfa"/>
-    <text x="367" y="258" fill="#a78bfa" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.6">AGENT TOOLING</text>
-    <text x="367" y="294" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">HWPX Document</text>
-    <text x="367" y="318" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="19" font-weight="750">Plugin</text>
-    <text x="367" y="350" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">계획 · 승인 · 수정 · 검증</text>
-
-    <rect x="648" y="218" width="274" height="158" rx="22" fill="#151922" stroke="#354052"/>
-    <rect x="648" y="218" width="274" height="5" rx="2.5" fill="#f59e0b"/>
-    <text x="672" y="258" fill="#f59e0b" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="12" font-weight="800" letter-spacing="1.35">AI DEVELOPMENT TOOLS</text>
-    <text x="672" y="298" fill="#f8fafc" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="22" font-weight="800">OwnHands</text>
-    <text x="672" y="327" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">근거와 검증을</text>
-    <text x="672" y="348" fill="#9ca3af" font-family="Inter, Pretendard, system-ui, sans-serif" font-size="13">사람의 판단에 연결</text>
-  </g>
-  <rect x="38" y="398" width="884" height="2" rx="1" fill="url(#accent)" opacity=".75"/>
+<!-- Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 -->
+<!-- Hallmark · genre: modern-minimal · macrostructure: Index-First · theme: Cobalt · enrichment: Tier-B SVG · feature: F3 tabular spec sheet -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-labelledby="title desc">
+  <title id="title">박태정의 프로젝트 인덱스</title>
+  <desc id="desc">FOWOCO, LLM Gateway, HWPX Document Plugin, OwnHands 네 프로젝트를 같은 크기의 행으로 보여주는 목록</desc>
+  <style>
+    :root {
+      --color-paper: oklch(16% 0.012 260);
+      --color-band: oklch(20% 0.016 260);
+      --color-band-2: oklch(18% 0.014 260);
+      --color-ink: oklch(95% 0.007 260);
+      --color-muted: oklch(72% 0.018 260);
+      --color-rule: oklch(32% 0.025 260);
+      --color-accent: oklch(70% 0.17 255);
+      --color-accent-soft: oklch(28% 0.065 255);
+      --font-display: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif;
+      --font-body: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif;
+      --font-mono: "SFMono-Regular", "JetBrains Mono", monospace;
+    }
+    .title { font-family: var(--font-display); font-size: 32px; font-weight: 800; letter-spacing: -1px; fill: var(--color-ink); }
+    .subtitle { font-family: var(--font-body); font-size: 20px; font-weight: 500; fill: var(--color-muted); }
+    .number { font-family: var(--font-mono); font-size: 20px; font-weight: 700; fill: var(--color-accent); }
+    .category { font-family: var(--font-body); font-size: 19px; font-weight: 700; fill: var(--color-muted); }
+    .project { font-family: var(--font-display); font-size: 25px; font-weight: 800; fill: var(--color-ink); }
+    .description { font-family: var(--font-body); font-size: 16px; font-weight: 500; fill: var(--color-muted); }
+    .role { font-family: var(--font-body); font-size: 15px; font-weight: 800; text-anchor: middle; fill: var(--color-accent); }
+  </style>
+  <rect width="900" height="460" rx="24" fill="var(--color-paper)"/>
+  <text class="title" x="34" y="53">프로젝트 인덱스</text>
+  <text class="subtitle" x="34" y="84">네 프로젝트를 문제 영역과 역할로 구분했습니다.</text>
+  <line x1="34" y1="101" x2="866" y2="101" stroke="var(--color-rule)" stroke-width="2"/>
+  <g transform="translate(0 122)">
+      <rect x="30" y="0" width="840" height="66" rx="12" fill="var(--color-band)"/>
+      <text class="number" x="53" y="42">01</text>
+      <text class="category" x="118" y="40">AI 서비스</text>
+      <text class="project" x="300" y="32">FOWOCO</text>
+      <text class="description" x="300" y="52">검색과 AI 작업 흐름</text>
+      <rect x="808" y="19" width="42" height="28" rx="14" fill="var(--color-accent-soft)"/>
+      <text class="role" x="829" y="38">팀</text>
+    </g>
+<g transform="translate(0 200)">
+      <rect x="30" y="0" width="840" height="66" rx="12" fill="var(--color-band-2)"/>
+      <text class="number" x="53" y="42">02</text>
+      <text class="category" x="118" y="40">AI 서비스</text>
+      <text class="project" x="300" y="32">LLM Gateway</text>
+      <text class="description" x="300" y="52">모델 연결과 응답 스트리밍</text>
+      <rect x="808" y="19" width="42" height="28" rx="14" fill="var(--color-accent-soft)"/>
+      <text class="role" x="829" y="38">팀</text>
+    </g>
+<g transform="translate(0 278)">
+      <rect x="30" y="0" width="840" height="66" rx="12" fill="var(--color-band)"/>
+      <text class="number" x="53" y="42">03</text>
+      <text class="category" x="118" y="40">에이전트 도구</text>
+      <text class="project" x="300" y="32">HWPX Document Plugin</text>
+      <text class="description" x="300" y="52">문서 계획 · 승인 · 수정 · 검증</text>
+      <rect x="808" y="19" width="42" height="28" rx="14" fill="var(--color-accent-soft)"/>
+      <text class="role" x="829" y="38">팀</text>
+    </g>
+<g transform="translate(0 356)">
+      <rect x="30" y="0" width="840" height="66" rx="12" fill="var(--color-band-2)"/>
+      <text class="number" x="53" y="42">04</text>
+      <text class="category" x="118" y="40">AI 개발 도구</text>
+      <text class="project" x="300" y="32">OwnHands</text>
+      <text class="description" x="300" y="52">개발 근거와 검증을 사람의 판단으로</text>
+      <rect x="808" y="19" width="42" height="28" rx="14" fill="var(--color-accent-soft)"/>
+      <text class="role" x="829" y="38">개인</text>
+    </g>
 </svg>
