@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a,50:172033,100:05070a&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=f8fafc&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=cbd5e1&amp;descAlignY=61" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc,50:e2e8f0,100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" />
-    <img alt="Taejung Park — AI Agent · LLM Application Developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc,50:e2e8f0,100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a%2C50:172033%2C100:05070a&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=f8fafc&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=cbd5e1&amp;descAlignY=61" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" />
+    <img alt="Taejung Park — AI Agent · LLM Application Developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=220&amp;section=header&amp;text=TAEJUNG%20PARK&amp;fontSize=48&amp;fontColor=111827&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Agent%20%C2%B7%20LLM%20Application%20Developer&amp;descSize=17&amp;descColor=475569&amp;descAlignY=61" width="100%" />
   </picture>
 
   <a href="#만든-것">
@@ -22,27 +22,24 @@ AI의 작업을 통제하고 검증해, 생성물을 **이해하고 설명하며
   <a href="mailto:taejung3852@gmail.com"><img src="https://img.shields.io/badge/CONTACT-E5E7EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="이메일 보내기" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:111827,50:f59e0b,100:111827&amp;height=3&amp;section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:e5e7eb,50:d97706,100:e5e7eb&amp;height=3&amp;section=header" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:e5e7eb,50:d97706,100:e5e7eb&amp;height=3&amp;section=header" width="100%" />
-</picture>
+---
 
 ## 만든 것
 
-AI 서비스, Agent가 사용하는 도구, AI 개발 작업을 검토하는 도구를 만듭니다. 아래 지도는 각 프로젝트가 어느 문제 영역에 놓이는지 보여줍니다.
+AI 서비스, Agent가 사용하는 도구, AI 개발 작업을 검토하는 도구를 만듭니다. 먼저 지도로 전체 구조를 보고, 아래에서 각 프로젝트를 읽을 수 있습니다.
 
-```mermaid
-flowchart TB
-    me["박태정 · AI-native Developer"]
-    me --> services["AI Services"]
-    me --> tooling["Agent Tooling"]
-    me --> devtools["AI Development Tools"]
-    services --> fowoco["FOWOCO"]
-    services --> gateway["LLM Gateway"]
-    tooling --> hwpx["HWPX Document Plugin"]
-    devtools --> ownhands["OwnHands"]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-map-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-map-light.svg" />
+  <img alt="박태정의 프로젝트 지도: AI Services, Agent Tooling, AI Development Tools" src="./assets/profile-map-light.svg" width="100%" />
+</picture>
+
+<div align="center">
+  <a href="#fowoco--팀-프로젝트">FOWOCO</a> ·
+  <a href="#llm-gateway--팀-프로젝트">LLM Gateway</a> ·
+  <a href="#hwpx-document-plugin--팀-프로젝트">HWPX Plugin</a> ·
+  <a href="#ownhands--개인-프로젝트">OwnHands</a>
+</div>
 
 ### AI Services
 
@@ -78,11 +75,7 @@ AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했�
 - **목표:** AI가 만든 변경을 사람이 다시 읽고 이해하는 부담을 줄이는 것
 - 저장소는 현재 비공개입니다.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:111827,50:f59e0b,100:111827&amp;height=3&amp;section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:e5e7eb,50:d97706,100:e5e7eb&amp;height=3&amp;section=header" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:e5e7eb,50:d97706,100:e5e7eb&amp;height=3&amp;section=header" width="100%" />
-</picture>
+---
 
 ## 일하는 기준
 
@@ -100,24 +93,18 @@ AI의 개발 작업을 통제하고 검토하는 도구입니다. 무엇을 했�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,java,spring,rust,docker,git,github&amp;theme=dark&amp;perline=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,java,spring,rust,docker,git,github&amp;theme=light&amp;perline=8" />
-    <img alt="Python, FastAPI, Java, Spring, Rust, Docker, Git, GitHub" src="https://skillicons.dev/icons?i=py,fastapi,java,spring,rust,docker,git,github&amp;theme=light&amp;perline=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=dark&amp;perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=light&amp;perline=8" />
+    <img alt="Python, FastAPI, Java, Spring, Rust, Docker, Git, GitHub" src="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjava%2Cspring%2Crust%2Cdocker%2Cgit%2Cgithub&amp;theme=light&amp;perline=8" />
   </picture>
 </div>
 
-## 활동
+## GitHub 활동
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taejung3852&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=f59e0b&amp;point=ffffff&amp;area=true&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taejung3852&amp;bg_color=ffffff&amp;color=24292f&amp;line=d97706&amp;point=111827&amp;area=true&amp;hide_border=true" />
-  <img alt="박태정의 GitHub 활동 그래프" src="https://github-readme-activity-graph.vercel.app/graph?username=taejung3852&amp;bg_color=ffffff&amp;color=24292f&amp;line=d97706&amp;point=111827&amp;area=true&amp;hide_border=true" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub 기여 잔디 뱀 애니메이션" src="https://raw.githubusercontent.com/taejung3852/taejung3852/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake-light.svg" />
+  <img alt="GitHub 기여 잔디 뱀 애니메이션" src="./assets/contribution-snake-light.svg" width="100%" />
 </picture>
 
 ## 교육 & 자격증
@@ -143,7 +130,7 @@ LangGraph · RAG · LangSmith
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a,50:172033,100:05070a&amp;height=110&amp;section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc,50:e2e8f0,100:f8fafc&amp;height=110&amp;section=footer" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc,50:e2e8f0,100:f8fafc&amp;height=110&amp;section=footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070a%2C50:172033%2C100:05070a&amp;height=110&amp;section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=110&amp;section=footer" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f8fafc%2C50:e2e8f0%2C100:f8fafc&amp;height=110&amp;section=footer" width="100%" />
 </picture>
