@@ -1,6 +1,6 @@
 <div align="left">
 
-# Taejung Park (박태정)
+# 박태정
 
 **AI Agent & LLM Application Developer**  
 AI의 작업을 통제하고 검증해, 생성물을 설명하고 책임질 수 있는 결과로 만듭니다.
