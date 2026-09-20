@@ -1,33 +1,46 @@
-# 안녕하세요, 박태정입니다 👋
+<div align="left">
 
-LLM과 에이전트를 실무 도구와 서비스로 연결하는 개발자입니다.  
-기술 자체의 화려함보다 **명확한 책임 경계와 검증 가능한 실행**을 중요하게 생각합니다.
+# Taejung Park (박태정)
 
----
-
-### 🔨 Projects
-
-* **[FOWOCO](https://github.com/fowoco/ai)** — 외국인 근로자 행정 대응 및 언어 지원을 위한 Hybrid RAG 서비스
-* **[HWPX Document Plugin](https://github.com/taejung3852/hwpx-document-plugin)** — 에이전트 기반 한글 문서(HWPX) 분석 및 편집 지원 MCP 도구
-* **[OwnHands](https://github.com/taejung3852/OwnHands)** — 근거 기반 검증과 인간 승인 중심의 AI-native SDLC 개발 하네스
-* **[LLM Gateway](https://github.com/taejung3852/llm-gateway)** — 다중 LLM 선택 및 호출 최적화를 위한 통합 게이트웨이 서비스
+**AI Agent & LLM Application Developer**  
+AI의 작업을 통제하고 검증해, 생성물을 설명하고 책임질 수 있는 결과로 만듭니다.
 
 ---
 
-### 🛠 Tech & Tools
+## Education
 
-* **AI & Agent:** Python · LangGraph · LangChain4j · FastMCP · Agent Skills
-* **Search & Data:** Qdrant · Hybrid Search (Dense + Sparse) · MySQL · SQLite
-* **Backend:** FastAPI · Java · Spring Boot · WebSocket
-* **Runtimes & Tools:** Ollama · Git · GitHub
+**Bachelor of Science in Engineering** · *Department of Software*, Sangmyung Univ. · Graduated 2026.02 · GPA: **3.95 / 4.5**  
+**KT AIVLE School 9th AI Developer Track** · 2026.04 – 2026.09  
+**KT Group AX Strategy & Multi-Agent Development Course** · 2026.09 – Present  
 
----
+## Project
 
-### 📫 Contact
+**E-9 외국인 근로자 HR·행정업무 AI 지원 서비스 · [FOWOCO](https://github.com/fowoco/ai)** | **Language Assistant / Hybrid RAG / MCP** | *Python / LangGraph / Qdrant / FastAPI / BGE-M3* *(2026.06 ~ 08)*  
+**에이전트 기반 한글 문서 편집 지원 플러그인 · [HWPX Document Plugin](https://github.com/taejung3852/hwpx-document-plugin)** | **MCP Architecture / Agent Skills / In-Process Engine Bridge** | *Python / FastMCP / Rust(rhwp) / PyO3 / Vision* *(2026.07 ~ Present)*  
+**근거 검증과 인간 승인 중심의 AI-native SDLC 하네스 · [OwnHands](https://github.com/taejung3852/OwnHands)** | **Sole Developer / Thin Harness / Verifier & Human Gate** | *Codex CLI / Thin Harness / Agent Skills / Continuous Evals* *(2026.09 ~ Present)*  
+**다중 LLM 선택 및 호출 통합 게이트웨이 · [LLM Gateway Service](https://github.com/taejung3852/llm-gateway)** | **Routing Logic / Provider Integration / Model Hosting** | *Java / Spring Boot / LangChain4j / WebSocket / Ollama* *(2025.04 ~ 10)*  
 
-* **Email:** taejung3852@gmail.com
+## Skills
 
----
+**AI & Agent** : LangGraph · LangChain4j · Model Context Protocol (MCP) · Agent Skills · Claude Code · Codex  
+**Search & Data** : Qdrant · Hybrid Search (Dense + Sparse) · MySQL · SQLite  
+**Backend & API** : Python · FastAPI · Java · Spring Boot · HTTP · WebSocket  
+**Runtime & Tools** : Ollama · AWS SageMaker JumpStart · Git · GitHub  
+
+## Credentials
+
+**정보처리기사** : Engineer Information Processing *(한국산업인력공단 / 2025.09)*  
+**SQLD** : SQL Developer *(한국데이터산업진흥원 / 2025.06)*  
+**ADsP** : 데이터분석 준전문가 *(한국데이터산업진흥원 / 2025.06)*  
+**AICE Associate** : AI Certificate for Everyone *(KT & 한국경제신문 / 2026.04)*  
+**ISTQB CTFL** : Certified Tester Foundation Level *(KSTQB / ISTQB / 2026.02)*  
+
+## Contact
+
+[![Email](https://img.shields.io/badge/taejung3852%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:taejung3852@gmail.com)
+[![GitHub](https://img.shields.io/badge/taejung3852-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/taejung3852)
+
+</div>
 
 <div align="center">
 
